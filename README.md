@@ -31,7 +31,7 @@ The planned time to complete the project, as well as the Milestones along the wa
 
 
 
-## Now that we've introduced the definition of a project, let's discuss some of the differences between projects and processes (or operations)
+### Now that we've introduced the definition of a project, let's discuss some of the differences between projects and processes (or operations)
 
    - Let say I'm working in the project department in a company of the renewable energy industry. In my company we will call it a project while the PV plants or Wind farms are under construction. 
    - as defined in the PMBOK Guide, it is temporary and it will deliver a unique product. Once we start producing and selling energy, the responsibility is transferred to the operations team who is will make sure that everything is running smoothly and consistently, according to the procedures already implemented in the company.
@@ -64,5 +64,26 @@ Which constraint, of the Triple Constraint, is the most important for a Project 
 
 Let's look at some examples. The image below represents the Triple Constraint.
 
+<p align="center"><img width="350" height="350" src="Triple_Constraint1.png"></p>
 
+Now let's look at what happens to the project if we have to change one of the constraints.
+
+If your cost is decreased, and you must deliver in the same amount of time, then the impact would be to decrease the scope:
+
+<p align="center"><img width="350" height="350" src="Cost_Decreased_Triple_Constraint2.png"></p>
+
+If your schedule is decreased, and you must provide the same deliverables, the impact would be to increase the cost:
+
+<p align="center"><img width="350" height="350" src="Schedule_Decreased_Triple_Constraint3.png"></p>
+
+If your scope is increased, then the impact would be to either increase the cost or increase the time (or both):
+
+<p align="center"><img width="350" height="350" src="Scope_Increase_Triple_Constraint 4.png"></p>
+
+These examples don't cover every possibility that you might find yourself in as a Project Manager, however, they indicate the importance of recognizing that if one element of the Triple Constraint is impacted, then the two other elements of the Triple Constraint are likely also impacted. The Project Manager must be able to effectively identify these tradeoffs to ensure the best possible decision is made for the business, the customer, and the project.
+
+
+
+
+   
 
