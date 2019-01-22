@@ -41,4 +41,28 @@ The planned time to complete the project, as well as the Milestones along the wa
    - Let's say an agency responsible for coordinating mitigation, response and recovery activities for several countries. The agency receives funding for mitigation initiatives or projects- These have specific objectives, timelines and scope. For example, projects can be geared towards improving Early Warning Systems or making schools safer (objectives). These projects can last anywhere between one year and 10 years (timeline) and the scope for implementation varies from one or two countries to all eighteen countries which fall under the agency.
 
    - On the other hand, the agency has several internal processes which help its effectiveness. A key example would be monitoring and reporting using specialized software. This helps management staff to be aware of how other departments are performing and gives insight as to how the agency can improve on its operations. This happens on a continuous basis. 
+   
+# What is Project Management?
+      
+Project Management consists of the methods and tools used to deliver a project that meets its stated objectives. Sounds simple right? Objectives typically represent themselves in terms of cost, time, and scope (also known as the Triple Constraint). As long as we know the objectives, we should be able to meet them, right? It may come as a surprise to you, but often times projects fail to meet their objectives. It isn't so simple because the number of factors that must be controlled can, and often do, interact in unexpected ways. Consequently, the project becomes more complicated as the number of factors increases.
+
+You've encountered projects in your personal life (remodeling a home), in your work (developing a new product for your company), or at school (getting a degree). When remodeling a home, you must watch and control the expenses; when developing a new product, you must monitor the number of features that are added to the product to meet cost expectations; and when getting a degree, you often have to manage your time commitments. Managing the expenses, managing the schedule, managing the amount of work, planning for problems, handling the risks, communicating critical information to all involved, leading a team - these are the activities of successful Project Management.
+
+## The Triple Constraint
+
+Whether complex or simple, high-budget or low-budget, lengthy or brief in time, all projects have the same three general objectives: meeting the scope (including quality criteria of the deliverables), meeting time constraints, and meeting cost boundaries. These three objectives are called the "Triple Constraint." We will refer to the Triple Constraint many times. These three constraints work together in an interesting fashion. They must always be kept in balance with each other - which is one of the biggest challenges that a Project Manager has.
+
+****
+
+### Triple Constraint Example
+   Let's say you want to build a house. You want it to be a 3 bedroom house, to be built in 3 months and for no more than $170,000. You first have to design the house with a blueprint, or a plan, for the house you want. Then you have to determine what it will cost to purchase all the materials to build the house to the design. Then you need to ensure you have the proper staff with the proper skills to build the house in 3 months’ time. If you draw your blueprints, and find out to build your dream house, you need $200,000 in materials and labor, then you need to either pick cheaper materials, cheaper or less labor, or change your plan to be less elaborate, maybe build a smaller house, or a reduced scope. If you find your house will take 4 months to build, then you have to have the money in your budget to pay for the extra month of resources, or again, you need to look possibly, at a smaller house which is a reduction in scope, in order to stay within your budget. The Triple Constraint works much like a three legged stool. All three legs must be in balance for the stool to stand up straight and allow for a flat surface to sit on. If one leg gets shortened, the stool starts to tip, same if one leg gets longer than the others. The Triple Constraint works similarly - if one leg gets shortened or lengthened, typically the other two must accommodate or adjust in order to keep the stool in balance which in our case is to achieve the desired objective of the project. Effective Project Managers understand the impact that a change in one constraint has on the other two and manages this continually throughout the project to achieve the desired scope and quality.
+***
+
+## Managing the Triple Constraint
+
+Which constraint, of the Triple Constraint, is the most important for a Project Manager to manage? In theory, they are equally important, but on any particular project, one may be more important than another. A Project Manager must understand their customer and needs to know which of the Triple Constraints may be more important (i.e. meeting the schedule, meeting the budget, or delivering the scope). This becomes important when the Project Manager needs to find solutions to issues or risks encountered and needs to trade off a constraint to meet the project objectives.
+
+Let's look at some examples. The image below represents the Triple Constraint.
+
+
 
