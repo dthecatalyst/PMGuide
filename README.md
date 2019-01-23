@@ -64,21 +64,21 @@ Which constraint, of the Triple Constraint, is the most important for a Project 
 
 Let's look at some examples. The image below represents the Triple Constraint.
 
-<p align="center"><img width="350" height="350" src="Triple_Constraint1.png"></p>
+<p align="center"><img width="300" height="300" src="Triple_Constraint1.png"></p>
 
 Now let's look at what happens to the project if we have to change one of the constraints.
 
 If your cost is decreased, and you must deliver in the same amount of time, then the impact would be to decrease the scope:
 
-<p align="center"><img width="350" height="350" src="Cost_Decreased_Triple_Constraint2.png"></p>
+<p align="center"><img width="300" height="300" src="Cost_Decreased_Triple_Constraint2.png"></p>
 
 If your schedule is decreased, and you must provide the same deliverables, the impact would be to increase the cost:
 
-<p align="center"><img width="350" height="350" src="Schedule_Decreased_Triple_Constraint3.png"></p>
+<p align="center"><img width="300" height="300" src="Schedule_Decreased_Triple_Constraint3.png"></p>
 
 If your scope is increased, then the impact would be to either increase the cost or increase the time (or both):
 
-<p align="center"><img width="350" height="350" src="Scope_Increase_Triple_Constraint 4.png"></p>
+<p align="center"><img width="300" height="300" src="Scope_Increase_Triple_Constraint 4.png"></p>
 
 These examples don't cover every possibility that you might find yourself in as a Project Manager, however, they indicate the importance of recognizing that if one element of the Triple Constraint is impacted, then the two other elements of the Triple Constraint are likely also impacted. The Project Manager must be able to effectively identify these tradeoffs to ensure the best possible decision is made for the business, the customer, and the project.
 
@@ -89,7 +89,7 @@ Our goal will be to review and explain how the project is managed throughout the
 ## Project Life Cycle Phases
 The Project Manager and project team have one shared goal: to carry out the work of the project for the purpose of meeting the project's objectives. A standard project typically has the following major phases: Initiation, Planning, Execution (including monitoring and control), and Closure. Taken together, these phases represent the path a project takes from the beginning to its end and are generally referred to as the project "life cycle." The project life cycle described below is what is known as a Predictive Project Life Cycle.
 
-<p align="center"><img width="500" height="350" src="Project_Life_Cycle_graphic.png"></p>
+<p align="center"><img width="600" height="350" src="Project_Life_Cycle_graphic.png"></p>
 
 <p align= "center"><b>Typical Cost and Staffing Levels Across a Generic Project Life Cycle Structure</b></p>
 
