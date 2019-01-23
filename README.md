@@ -34,7 +34,7 @@ The planned time to complete the project, as well as the Milestones along the wa
 ### Now that we've introduced the definition of a project, let's discuss some of the differences between projects and processes (or operations)
 
    - Let say I'm working in the project department in a company of the renewable energy industry. In my company we will call it a project while the PV plants or Wind farms are under construction. 
-   - as defined in the PMBOK Guide, it is temporary and it will deliver a unique product. Once we start producing and selling energy, the responsibility is transferred to the operations team who is will make sure that everything is running smoothly and consistently, according to the procedures already implemented in the company.
+   - As defined in the PMBOK Guide, it is temporary and it will deliver a unique product. Once we start producing and selling energy, the responsibility is transferred to the operations team who is will make sure that everything is running smoothly and consistently, according to the procedures already implemented in the company.
 
 ### Projects and Processes in Disaster Management
 
