@@ -143,6 +143,8 @@ As an integrator, the Project Manager faces demands that the functional manager 
    - Negotiating with people in the organization, at every level, who may or may not want to collaborate.
 
 This is why Project Managers must have many competencies - as a manager, as a leader, as an employee, as a business person.
+   
+   ### SUMMARY OF PROJECT MANAGERS COMPARED TO FUNCTIONAL MANAGERS
              
 |              | **Project Manager** | **Functional Manager** |
 | :---         |     :---:       |          :---:      |
