@@ -144,8 +144,9 @@ As an integrator, the Project Manager faces demands that the functional manager 
 
 This is why Project Managers must have many competencies - as a manager, as a leader, as an employee, as a business person.
 
+    | ------------ | --------------------------------------  | -------------------------------------------- |
     |              |         Project Manager                 |        Functional Manager                    |
-    |--------------|-----------------------------------------|----------------------------------------------|
+    | ------------ |---------------------------------------  | -------------------------------------------- |
     |    Team      |Integrate people across functional units | Oversee people within a functional unit      |
     |              |(many specialized skills)                |(expert in a specialized product or service)  |                                                                    
-    |--------------------------------------------------------|----------------------------------------------|                                                                                                                                        
+    | ------------ | --------------------------------------- | -------------------------------------------- |                                                                                                                                        
