@@ -147,7 +147,7 @@ This is why Project Managers must have many competencies - as a manager, as a le
 |              | **Project Manager** | **Functional Manager** |
 | :---         |     :---:       |          :---:      |
 |  **Team**    | Integrate people across functional units (many specialized skills)| Oversee people within a functional unit (expert in a specialized product or service)| 
-|  **Key Tasks**   |Facilitator among stakeholders and project team|Facilitates communication among employees|
+|/4  **Key Tasks**   |Facilitator among stakeholders and project team|Facilitates communication among employees|
 |              |Motivates "borrowed" personnel|Motivates direct reports|
 |              |Balance schedules, scope, risk, quality, and budgets |Ensures quality, cost, and due dates of employee's work is met|
 |              |Manages technology and resources |Manages employee performance|
