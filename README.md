@@ -191,7 +191,21 @@ This means that there has to be a mechanism for evaluating the many projects tha
 
 ## Financial Measures for Selecting Projects
 The most common financial measures used to evaluate projects are: **Payback Period, Net Present Value, and Profitability Index**. Each of these measures provide a view into the financial viability of a project based on different monetary approaches. The estimates used for these calculations are typically established and provided by the organization. For example, the finance department or a company's executives would know the cost of capital investments and can provide a project manager with the required rate of return that a project must be able to achieve in order for it to be considered profitable.
+
 Organizations use these financial measures to prioritize projects as most organizations have limited resources with which to work. Those projects with better financial indicators would typically be prioritized higher than those with less attractive financials. This prioritization helps an organization to narrow down the list of projects they will initiate and those that may have to seek better options for viability.
 
+#### Accuracy in financial measure
+It is important to note that the financial measures we have discussed (Payback Period, Net Present Value, and Profitability Index). For example, if the cash flow estimates are not accurate, such as the initial investment is underestimated or the cash inflows are overestimated, this can have a serious impact on the accuracy of the financial measures such as Payback Period, Profitability, and NPV because if you look at the calculation the Payback Period calculates how long it will take to return the initial investment of the project. **The formula for Payback Period is the initial investment divided by the periodic cash flow**.
+
+<p align="center"><img width="400" height="100" src="/resourcedict/PaybackPeriod.png"></p>
+
+**Dividing by annual cash flow gives you the payback time in years.** The shorter the Payback Period, the quicker an organization can achieve financial benefits. 
+
+For example, if you invest $10,000 in a new product and take in $1000 a year in cash related to the product, it will take you ten years to get back your initial investment. Ten years times 1000 equals 10,000. The drawback of using Payback Period as a reliable means for determining the financial benefit of a project is that it does not take into account the time value of money. Because we know that over time the value of money deflates, any project that stretches across multiple years should consider using financial calculations that consider the time value of money. 
+
+Net Present Value and Profitability Index both consider that the value of money decreases over time. The value of ten dollars received in five years is less than if you receive ten dollars today.
+
+ 
+As such, the estimates used to conduct the financial viability must be done with great care so as to make them as accurate as possible. Wherever possible, experts' opinions, past project histories, and even computer simulations should be used to verify the estimates are as accurate as possible.
 
 
