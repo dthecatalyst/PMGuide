@@ -31,7 +31,7 @@ The planned time to complete the project, as well as the Milestones along the wa
 
 
 
-### Now that we've introduced the definition of a project, let's discuss some of the differences between projects and processes (or operations)
+**Now that we've introduced the definition of a project, let's discuss some of the differences between projects and processes (or operations)**
 
    - Let say I'm working in the project department in a company of the renewable energy industry. In my company we will call it a project while the PV plants or Wind farms are under construction. 
    - As defined in the PMBOK Guide, it is temporary and it will deliver a unique product. Once we start producing and selling energy, the responsibility is transferred to the operations team who is will make sure that everything is running smoothly and consistently, according to the procedures already implemented in the company.
@@ -163,7 +163,7 @@ One of the Project Manager's responsibilities is to ensure they have the proper 
 When deciding on the project team, the Project Manager must consider many elements of the project. The primary elements that a Project Manager must consider about their team are:
 
 The location of the team. The size of the team, including number of resources and the skills needed, both technical and interpersonal. Considerations about the location of the team members have to do with the goals and objectives of the project If the project is a global project, then the team will likely have members from multiple physical locations.
-#### A team that is separated across multiple locations is called a virtual team.
+**A team that is separated across multiple locations is called a virtual team.**
 Virtual teams provide the ability to locate team members close to Stakeholders or customers and also to incorporate necessary geographical requirements, if needed. However, virtual teams are much more difficult to lead as the physical distance and lack of daily face-to-face contact makes establishing trust among the team more of a challenge. Co-located teams, or teams that work in the same location on a daily basis tend to be more productive and effective as they have more freedom in communication and can establish stronger relationship bonds.
 In today's global economy, many companies are working across country boundaries to deliver their products and services, and as such, so must the Project Manager. Many Project Managers assume that they can manage a virtual project with the same techniques as they manage a co-located team but this will surely lead to disaster.
 Project Managers must realize that the complexity of the project increases dramatically if executed in a virtual team environment compared to a similarly scoped project that is executed in a co-located environment. If the Project Manager does not plan for this in advance and ensure proper mechanisms for communication, team building, and sharing project information, then they will encounter severe challenges. In the virtual project, assuming that technology conquers all country boundaries is another route to failure. Email, texting, instant messaging they are all wonderful time savers, but killers in a virtual project. The Project Manager must take extra steps to ensure clear and consistent communications in a variety of forms the best form is some sort of face-to face-interaction whether it be via video conference or the occasional face-to-face meeting of the Project Manager and team. Virtual teams also benefit from clear structure organizationally as well as project based.
@@ -182,12 +182,16 @@ Strategic management is not "tactical." It does not focus on the day-to-day acti
 The project-approach plays an important role in strategic management by providing a measured, structured way to reduce the uncertainty in strategic business activities. The business activities might include events like establishing a new marketing department, developing a new cosmetic product, launching an overseas sales office, building a manufacturing facility, constructing a new Research & Development building, revamping a sales campaign, and so on.
 
 However, not all projects have the same benefits to an organization and their clients and that is where a project selection process becomes valuable. 
-#### Project selection is the process of evaluating projects and choosing to implement those that are best aligned to the strategic goals of the organization and offer the most benefits to the organization, their clients, and their employees. When choosing which projects to implement, we would hope that an organization uses rational, logical decision criteria.
+**Project selection is the process of evaluating projects and choosing to implement those that are best aligned to the strategic goals of the organization and offer the most benefits to the organization, their clients, and their employees. When choosing which projects to implement, we would hope that an organization uses rational, logical decision criteria.**
 Why go through all of this? Undoubtedly, there are many projects a company would want to launch, but as most companies have limited resources, they have two choices:
 1.	Spread available resources across a large number of projects, resulting in a small number of resources working on each project and little to no progress made on each.
 2.	Be selective about the projects they undertake so that each can be fully staffed and achieve their objectives in the desired time frame.
 
 This means that there has to be a mechanism for evaluating the many projects that a company would like to launch, but can't afford to. We will start by defining the most common financial measures used to evaluate projects.
+
 ## Financial Measures for Selecting Projects
+The most common financial measures used to evaluate projects are: **Payback Period, Net Present Value, and Profitability Index**. Each of these measures provide a view into the financial viability of a project based on different monetary approaches. The estimates used for these calculations are typically established and provided by the organization. For example, the finance department or a company's executives would know the cost of capital investments and can provide a project manager with the required rate of return that a project must be able to achieve in order for it to be considered profitable.
+Organizations use these financial measures to prioritize projects as most organizations have limited resources with which to work. Those projects with better financial indicators would typically be prioritized higher than those with less attractive financials. This prioritization helps an organization to narrow down the list of projects they will initiate and those that may have to seek better options for viability.
+
 
 
