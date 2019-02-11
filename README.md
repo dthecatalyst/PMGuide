@@ -197,7 +197,7 @@ Organizations use these financial measures to prioritize projects as most organi
 #### Accuracy in financial measure
 It is important to note that the financial measures we have discussed (Payback Period, Net Present Value, and Profitability Index). For example, if the cash flow estimates are not accurate, such as the initial investment is underestimated or the cash inflows are overestimated, this can have a serious impact on the accuracy of the financial measures such as Payback Period, Profitability, and NPV because if you look at the calculation, The Payback Period calculates how long it will take to return the initial investment of the project. **The formula for Payback Period is the initial investment divided by the periodic cash flow**.
 
-<p align="center"><img width="400" height="100" src="/resourcedict/PaybackPeriod.png"></p>
+<p align="center"><img width="400" height="150" src="/resourcedict/PaybackPeriod.png"></p>
 
 **Dividing by annual cash flow gives you the payback time in years.** The shorter the Payback Period, the quicker an organization can achieve financial benefits. 
 
