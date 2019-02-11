@@ -195,7 +195,7 @@ The most common financial measures used to evaluate projects are: **Payback Peri
 Organizations use these financial measures to prioritize projects as most organizations have limited resources with which to work. Those projects with better financial indicators would typically be prioritized higher than those with less attractive financials. This prioritization helps an organization to narrow down the list of projects they will initiate and those that may have to seek better options for viability.
 
 #### Accuracy in financial measure
-It is important to note that the financial measures we have discussed (Payback Period, Net Present Value, and Profitability Index). For example, if the cash flow estimates are not accurate, such as the initial investment is underestimated or the cash inflows are overestimated, this can have a serious impact on the accuracy of the financial measures such as Payback Period, Profitability, and NPV because if you look at the calculation the Payback Period calculates how long it will take to return the initial investment of the project. **The formula for Payback Period is the initial investment divided by the periodic cash flow**.
+It is important to note that the financial measures we have discussed (Payback Period, Net Present Value, and Profitability Index). For example, if the cash flow estimates are not accurate, such as the initial investment is underestimated or the cash inflows are overestimated, this can have a serious impact on the accuracy of the financial measures such as Payback Period, Profitability, and NPV because if you look at the calculation, The Payback Period calculates how long it will take to return the initial investment of the project. **The formula for Payback Period is the initial investment divided by the periodic cash flow**.
 
 <p align="center"><img width="400" height="100" src="/resourcedict/PaybackPeriod.png"></p>
 
@@ -203,9 +203,20 @@ It is important to note that the financial measures we have discussed (Payback P
 
 For example, if you invest $10,000 in a new product and take in $1000 a year in cash related to the product, it will take you ten years to get back your initial investment. Ten years times 1000 equals 10,000. The drawback of using Payback Period as a reliable means for determining the financial benefit of a project is that it does not take into account the time value of money. Because we know that over time the value of money deflates, any project that stretches across multiple years should consider using financial calculations that consider the time value of money. 
 
-Net Present Value and Profitability Index both consider that the value of money decreases over time. The value of ten dollars received in five years is less than if you receive ten dollars today.
+Net Present Value and Profitability Index both consider that the value of money decreases over time. The value of ten dollars received in five years is less than if you receive ten dollars today. 
 
- 
-As such, the estimates used to conduct the financial viability must be done with great care so as to make them as accurate as possible. Wherever possible, experts' opinions, past project histories, and even computer simulations should be used to verify the estimates are as accurate as possible.
+Net Present Value, or NPV, determines the difference of the initial investment and the value of the cash inflows over time, considering a rate of return and the time value of money. The formula for NPV is shown here,
+
+<p align="center"><img width="400" height="250" src="/resourcedict/npv.png"></p>
+
+where the initial cash investment represented as a negative plus the sum from time period i to T of the cash inflows divided by the quantity 1 plus the required rate of return raised to the ith power. Let's look at an example.
+
+Our project has an initial investment of $100,000. The annual cash inflow is $35,000 a year for five years. The required rate of return is 15%. The Net Present Value, or NPV, formula would be as follows.
+
+(Negative 100,000 plus 35,000 divided by (1 +.15) to the powerof 1), plus (35,000 divided by (1 plus .15) to the power of 2) plus (35,000 divided by (1 + .15) to the power of 3) plus (35,000 divided by (1 + .15) to the power of 4) plus (35,000 divided by (1 plus .15) to the power of 5). For the next step, we will round to the nearest whole number. This gives us negative 100,000 plus 30,435 plus 26,465 plus 23,013 plus 20,011 plus 17,401 for a finalized NPV of 17,325. 
+
+**An NPV value of zero indicates that the project will return enough money to meet the organization's required rate of return. Any value above zero will indicate that the organization can achieve an even higher rate of return than what is required.** An NPV that is negative indicates that the organization will never get a return on the money invested and should consider not pursuing that project. In our example, the NPV is above zero, so there will be a higher rate of return than what was required.
+
+As such The estimates used to conduct the financial viability must be done with great care so as to make them as accurate as possible. Wherever possible, experts' opinions, past project histories, and even computer simulations should be used to verify the estimates are as accurate as possible.
 
 
