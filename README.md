@@ -264,3 +264,10 @@ Typically, organizations use a combination of both financial and non-financial c
 
 *Organizations that utilize a process such as the one described above typically will not allow rogue projects to be initiated within departments or functional units as this will dilute the resource pool as well as possibly invest money in projects with less than desirable returns. Although these types of rogue projects can and do exist, the more disciplined the organization is in utilizing a project selection and Project Portfolio management process, the less likely these types of projects will exist.*
 
+# Project Structures Within Organizations<a name="Structures-Within-Organizations"></a>
+
+Projects operate within organizations and as such, not all project structures are the same. Just as organizations have different structures, so do projects. Businesses and corporations are organized in various ways. Sometimes this is structured with a traditional organization-functional, hierarchical, or vertical. In this type of structure there are functional heads or department heads that manage a specific function in the organization (finance, engineering, manufacturing, purchasing). Organizations can also be organized by strategic business units (product line or customer base), geographic location (North American region, African region, etc.), type of customer (consumer, commercial, governmental, educational, etc.), or some combination of the above.
+
+Usually, we find three different types of project structures within organizations in which Projects and Project Managers must operate. They are Functional, Matrix, and Pure Project. Functional organizations are also called Traditional, Hierarchical, or Vertical organizations.
+
+<p align="center"><img width="500" height="150" src="/resourcedict/orgstructure.png"></p>
