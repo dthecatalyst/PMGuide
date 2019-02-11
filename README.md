@@ -244,3 +244,17 @@ Although organizations will use financials to determine the viability of selecti
 -   To gain competitive advantage. For example, to launch a new product ahead of a competitor, or to invest in research and development projects to maintain or increase market share.
 -   To invest in new technologies or processes. For example, to implement the latest technology in the organization to improve the efficiency and productivity of their workers, or to improve an existing process in the organization that would create cost savings in future years.
 
+# Project Selection Process
+Typically, organizations use a combination of both financial and non-financial criteria to determine the best projects to select. A typical project selection process would likely include the following steps:
+1.	Business plan identifies project opportunities aligned to the organization's strategy OR an employee has an idea for a project and reviews it with their management team for concurrence to proceed and get allocated funding.
+
+2.	Management submits project information on a standardized form. This form typically includes basic level business criteria such as the project goals and deliverables, project purpose, the business reason or business problem addressed by the project, and general information about the project cash outflow, inflow, and market potential.
+
+3.	Project Portfolio team reviews the project suggestions and pre-selects projects based on a set of criteria that best matches the strategic plans of the organization.
+
+4.	Projects undergo additional feasibility studies to confirm viability and confirm the financial and non-financial benefits. This typically includes a review of the project resource requirements.
+
+5.	A final set of projects is prioritized and selected with Project Managers assigned to begin Project Initiation. Once the finalized projects are selected, they are incorporated into the organization's Project Portfolio which typically undergoes regular reviews by management to ensure that the portfolio as a whole contains the projects necessary for the overall success of the organization. 
+
+**Organizations that utilize a process such as the one described above typically will not allow rogue projects to be initiated within departments or functional units as this will dilute the resource pool as well as possibly invest money in projects with less than desirable returns. Although these types of rogue projects can and do exist, the more disciplined the organization is in utilizing a project selection and Project Portfolio management process, the less likely these types of projects will exist.**
+
