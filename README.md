@@ -1,6 +1,7 @@
 # Table of Contents
 **[What is a Project ?](#what-is-a-project)**<br>
 **[What is Project Management?](#What-is-Project-Management)**<br>
+**[Managing Triple Constraint](#triple-constraint)**<br>
 **[What is the Project Life Cycle?](#What-is-the-Project-Life-Cycle)**<br>
 
 # What is a Project ?<a name="what-is-a-project"></a>
@@ -63,7 +64,7 @@ Whether complex or simple, high-budget or low-budget, lengthy or brief in time, 
    Let's say you want to build a house. You want it to be a 3 bedroom house, to be built in 3 months and for no more than $170,000. You first have to design the house with a blueprint, or a plan, for the house you want. Then you have to determine what it will cost to purchase all the materials to build the house to the design. Then you need to ensure you have the proper staff with the proper skills to build the house in 3 months’ time. If you draw your blueprints, and find out to build your dream house, you need $200,000 in materials and labor, then you need to either pick cheaper materials, cheaper or less labor, or change your plan to be less elaborate, maybe build a smaller house, or a reduced scope. If you find your house will take 4 months to build, then you have to have the money in your budget to pay for the extra month of resources, or again, you need to look possibly, at a smaller house which is a reduction in scope, in order to stay within your budget. The Triple Constraint works much like a three legged stool. All three legs must be in balance for the stool to stand up straight and allow for a flat surface to sit on. If one leg gets shortened, the stool starts to tip, same if one leg gets longer than the others. The Triple Constraint works similarly - if one leg gets shortened or lengthened, typically the other two must accommodate or adjust in order to keep the stool in balance which in our case is to achieve the desired objective of the project. Effective Project Managers understand the impact that a change in one constraint has on the other two and manages this continually throughout the project to achieve the desired scope and quality.
 ***
 
-## Managing the Triple Constraint
+## Managing the Triple Constraint<a name="triple-constraint"></a>
 
 Which constraint, of the Triple Constraint, is the most important for a Project Manager to manage? In theory, they are equally important, but on any particular project, one may be more important than another. A Project Manager must understand their customer and needs to know which of the Triple Constraints may be more important (i.e. meeting the schedule, meeting the budget, or delivering the scope). This becomes important when the Project Manager needs to find solutions to issues or risks encountered and needs to trade off a constraint to meet the project objectives.
 
