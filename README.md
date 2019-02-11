@@ -270,4 +270,4 @@ Projects operate within organizations and as such, not all project structures ar
 
 Usually, we find three different types of project structures within organizations in which Projects and Project Managers must operate. They are Functional, Matrix, and Pure Project. Functional organizations are also called Traditional, Hierarchical, or Vertical organizations.
 
-<p align="center"><img width="500" height="150" src="/resourcedict/orgstructure.png"></p>
+<p align="center"><img width="650" height="100" src="/resourcedict/orgstructure.png"></p>
