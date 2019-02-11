@@ -189,7 +189,7 @@ Why go through all of this? Undoubtedly, there are many projects a company would
 
 This means that there has to be a mechanism for evaluating the many projects that a company would like to launch, but can't afford to. We will start by defining the most common financial measures used to evaluate projects.
 
-## Financial Measures for Selecting Projects
+### Financial Measures for Selecting Projects
 The most common financial measures used to evaluate projects are: **Payback Period, Net Present Value, and Profitability Index**. Each of these measures provide a view into the financial viability of a project based on different monetary approaches. The estimates used for these calculations are typically established and provided by the organization. For example, the finance department or a company's executives would know the cost of capital investments and can provide a project manager with the required rate of return that a project must be able to achieve in order for it to be considered profitable.
 
 Organizations use these financial measures to prioritize projects as most organizations have limited resources with which to work. Those projects with better financial indicators would typically be prioritized higher than those with less attractive financials. This prioritization helps an organization to narrow down the list of projects they will initiate and those that may have to seek better options for viability.
@@ -235,4 +235,10 @@ For a finalized Profitability Index, if we round to one decimal place. A ratio o
 
 As such The estimates used to conduct the financial viability must be done with great care so as to make them as accurate as possible. Wherever possible, experts' opinions, past project histories, and even computer simulations should be used to verify the estimates are as accurate as possible.
 
+
+### Non-Financial Criteria for Selecting Projects
+Although organizations will use financials to determine the viability of selecting a project, financial measures are not the only criteria that an organization should consider when investing money in a project. There are non-financial criteria that should be considered. Sometimes, non-financial criteria may drive an organization to select a project with less than desirable financial measures. Some examples are:
+ -  To meet new government or legal regulations. For example, a new law that requires the business to implement a new process or modify/upgrade their existing equipment to not be in violation of the law.
+-   To gain competitive advantage. For example, to launch a new product ahead of a competitor, or to invest in research and development projects to maintain or increase market share.
+-   To invest in new technologies or processes. For example, to implement the latest technology in the organization to improve the efficiency and productivity of their workers, or to improve an existing process in the organization that would create cost savings in future years.
 
