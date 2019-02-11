@@ -194,7 +194,7 @@ The most common financial measures used to evaluate projects are: **Payback Peri
 
 Organizations use these financial measures to prioritize projects as most organizations have limited resources with which to work. Those projects with better financial indicators would typically be prioritized higher than those with less attractive financials. This prioritization helps an organization to narrow down the list of projects they will initiate and those that may have to seek better options for viability.
 
-#### Accuracy in financial measure
+### Accuracy in financial measure
 It is important to note that the financial measures we have discussed (Payback Period, Net Present Value, and Profitability Index). For example, if the cash flow estimates are not accurate, such as the initial investment is underestimated or the cash inflows are overestimated, this can have a serious impact on the accuracy of the financial measures such as Payback Period, Profitability, and NPV because if you look at the calculation, The Payback Period calculates how long it will take to return the initial investment of the project. **The formula for Payback Period is the initial investment divided by the periodic cash flow**.
 
 <p align="center"><img width="400" height="150" src="/resourcedict/PaybackPeriod.png"></p>
@@ -221,6 +221,15 @@ For the next step, we will round to the nearest whole number. This gives us
 
 
 **An NPV value of zero indicates that the project will return enough money to meet the organization's required rate of return. Any value above zero will indicate that the organization can achieve an even higher rate of return than what is required.** An NPV that is negative indicates that the organization will never get a return on the money invested and should consider not pursuing that project. In our example, the NPV is above zero, so there will be a higher rate of return than what was required.
+
+**Profitability Index** is similar to NPV in that it also considers the time value of money in its calculation. Profitability Index is expressed in the form of a ratio. That is, the ratio of the present value of cash inflows to the initial investment.
+
+<p align="center"><img width="500" height="150" src="/resourcedict/PI.jpg"></p>
+
+The formula for Profitability Index is the present value of future cash flows divided by the initial investment required. The present value of future cash flows is the same as part of the formula used for the net present value.
+
+<p align="center"><img width="500" height="150" src="/resourcedict/PIPVF.png.jpg"></p>
+
 
 As such The estimates used to conduct the financial viability must be done with great care so as to make them as accurate as possible. Wherever possible, experts' opinions, past project histories, and even computer simulations should be used to verify the estimates are as accurate as possible.
 
