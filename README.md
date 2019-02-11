@@ -230,6 +230,8 @@ The formula for Profitability Index is the present value of future cash flows di
 
 <p align="center"><img width="500" height="150" src="/resourcedict/PIPVF.png.jpg"></p>
 
+For a finalized Profitability Index, if we round to one decimal place. A ratio of greater than one is a sign that the project will return financial benefits to the organization. If the ratio is less than one, this means the NPV is also less than zero, which means the organization should consider not pursuing that project.
+
 
 As such The estimates used to conduct the financial viability must be done with great care so as to make them as accurate as possible. Wherever possible, experts' opinions, past project histories, and even computer simulations should be used to verify the estimates are as accurate as possible.
 
