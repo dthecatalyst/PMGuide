@@ -213,11 +213,11 @@ where the initial cash investment represented as a negative plus the sum from ti
 
 Our project has an initial investment of $100,000. The annual cash inflow is $35,000 a year for five years. The required rate of return is 15%. The Net Present Value, or NPV, formula would be as follows.
 
-<p align="center"><img width="400" height="100" src="/resourcedict/calculation.png"></p>
+<p align="center"><img width="500" height="90" src="/resourcedict/calculation.png"></p>
 
 For the next step, we will round to the nearest whole number. This gives us 
 
-<p align="center"><img width="400" height="100" src="/resourcedict/calculation2.png"></p>
+<p align="center"><img width="500" height="90" src="/resourcedict/calculation2.png"></p>
 
 
 **An NPV value of zero indicates that the project will return enough money to meet the organization's required rate of return. Any value above zero will indicate that the organization can achieve an even higher rate of return than what is required.** An NPV that is negative indicates that the organization will never get a return on the money invested and should consider not pursuing that project. In our example, the NPV is above zero, so there will be a higher rate of return than what was required.
