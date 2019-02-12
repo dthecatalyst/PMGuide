@@ -1,8 +1,11 @@
 # Table of Contents
 **[What is a Project ?](#what-is-a-project)**<br>
 **[What is Project Management?](#What-is-Project-Management)**<br>
+**[The Triple Constraint](#triple-constraint)**<br>
 **[Managing Triple Constraint](#triple-constraint)**<br>
 **[What is the Project Life Cycle?](#What-is-the-Project-Life-Cycle)**<br>
+
+
 
 # What is a Project ?<a name="what-is-a-project"></a>
 
@@ -54,7 +57,7 @@ Project Management consists of the methods and tools used to deliver a project t
 
 You've encountered projects in your personal life (remodeling a home), in your work (developing a new product for your company), or at school (getting a degree). When remodeling a home, you must watch and control the expenses; when developing a new product, you must monitor the number of features that are added to the product to meet cost expectations; and when getting a degree, you often have to manage your time commitments. Managing the expenses, managing the schedule, managing the amount of work, planning for problems, handling the risks, communicating critical information to all involved, leading a team - these are the activities of successful Project Management.
 
-## The Triple Constraint
+## The Triple Constraint<a name="triple-constraint"></a>
 
 Whether complex or simple, high-budget or low-budget, lengthy or brief in time, all projects have the same three general objectives: meeting the scope (including quality criteria of the deliverables), meeting time constraints, and meeting cost boundaries. These three objectives are called the "Triple Constraint." We will refer to the Triple Constraint many times. These three constraints work together in an interesting fashion. They must always be kept in balance with each other - which is one of the biggest challenges that a Project Manager has.
 
@@ -92,7 +95,7 @@ These examples don't cover every possibility that you might find yourself in as 
 As we mentioned earlier, all projects have a start and an end. Another way to acknowledge this is to say that all projects follow a life cycle of phases: Initiation, Planning, Execution and Closure.
 Our goal will be to review and explain how the project is managed throughout these life cycle phases.The concept of a "life cycle" is prevalent in today's business and technology climates. This concept has been applied to the development of most new products, especially software products. Also implicit in a "life cycle," is the notion of phases or stages that are completed in a specific order through the "life" of the project. Each project may go through the same "life cycle" phases, even though each project outcome will be unique. Projects begin with Initiation by defining the goals and objectives to be achieved. In Planning, the details of the project are identified as well as how the project will be carried out in order to meet the objectives. In Execution, the Project Plan is monitored and controlled to ensure that the actual work being delivered meets the planned scope, cost, and schedule. And lastly, the project is Closed where all deliverables are turned over the customer, and all project activities are completed. Project Closing also includes a post project review, complete with a collection of lessons learned, best practices, and improvements that can be made to the Project Management methods and tools for improved performance on future projects in the organization. During each life cycle phase, there are specific deliverables expected to be produced. These deliverables are based upon the project objectives and the ultimate project result. For example, if the project is to build a house, at the end of the Planning Phase it would be expected to have design blueprints for the house as well as a contract with a builder to build the house. During Execution, it would be expected that there would be interim key deliverables such as, the completion of the foundation, the completion of the framing, the completion of the roof, the completion of the walls, the completion of electrical and plumbing, and so forth. These deliverables are produced over the “life” of the project and are key to meeting the overall project goal of a beautiful new home. We will explore the entire Project Life Cycle together, beginning with Initiation and finishing with Project Closing.
 
-## Project Life Cycle Phases
+## Project Life Cycle Phases<a name="life-cycle-phases"></a>
 The Project Manager and project team have one shared goal: to carry out the work of the project for the purpose of meeting the project's objectives. A standard project typically has the following major phases: Initiation, Planning, Execution (including monitoring and control), and Closure. Taken together, these phases represent the path a project takes from the beginning to its end and are generally referred to as the project "life cycle." The project life cycle described below is what is known as a Predictive Project Life Cycle.
 
 <p align="center"><img width="600" height="350" src="/resourcedict/Project_Life_Cycle_graphic.png"></p>
@@ -117,7 +120,7 @@ Status reports should always emphasize the anticipated end point in terms of cos
 ### Closing phase
 During the final Closure Phase, or Completion Phase, the emphasis is on releasing the final deliverables to the customer, handing over project documentation to the business, terminating supplier contracts, releasing and reassigning project resources to other work or projects, and communicating the closure of the project to all Stakeholders. The last remaining step is to conduct lessons-learned studies in a post project review to examine what went well and what didn't. Through this type of analysis, the wisdom of experience is transferred back to the project organization, which will help future project teams.
 
-# The Role and Characteristics of a Project Manager
+# The Role and Characteristics of a Project Manager<a name="characteristics-of-project-manager"></a>
 
 
 Project Managers are found in all industries and types of work. Their job includes the management of the Triple Constraint as we have previously discussed. Their job is also to lead a project team and be effective in managing relationships and communications with everyone involved and affected by the project. There is a management component to being a Project Manager as schedules, scope, risk, quality, and budgets must all be managed. In addition, Project Managers need leadership skills as they lead a project team, negotiate contracts, resolve issues and problems, and meet expectations of Stakeholders. The ability to successfully negotiate with others for resources, time, and money can be critical to project success. The ability to lead a team of talented, strong-willed people is another key to success. Leadership requires leadership skills and behavioral skills (aka "soft skills").
@@ -134,7 +137,7 @@ One of the most important jobs of the Project Manager is to manage the risks inh
 
 As you can see, the role of the Project Manager goes far beyond their ability to manage a project schedule. The best project schedule in the world still won't help a Project Manager that has poor communication skills. With these skills in mind, let's take a look at the role of the Project Manager in contrast to other managers within an organization.
 
-## Project Managers Compared to Functional Managers
+## Project Managers Compared to Functional Managers<a name="project-manager-compared-to-fuctional-manager"></a>
 
 When we think of managers, usually we think of the functional manager or the department manager- the person who manages an organizational unit such as marketing, accounting & payroll, research, human resources,manufacturing, facilities, and so on. These units provide products or services to all areas of the organization, and usually specialize in producing one type of result, product, or service. Functional groups are also typically responsible for company operations within their specialization area. The manager of these functional units is usually a specialist in the function that the department represents.
 
@@ -162,7 +165,7 @@ This is why Project Managers must have many competencies - as a manager, as a le
                                                                                                                                           
 
 
-# The Project Team
+# The Project Team<a name="project-team"></a>
 One of the Project Manager's responsibilities is to ensure they have the proper team with the proper skills to execute the project. Whether the Project Manager is provided the ability to interview and select their team or their team is provided to them by Senior Management, it is still the Project Manager's responsibility to ensure they have all the necessary resources to be successful. This means ensuring they have the right team assembled to complete the work.
 
 ### Assembling a Project Team
@@ -180,10 +183,10 @@ Organizationally, clearly defining roles and responsibilities and ensuring all p
 
 An accountant can’t perform the work of a plumber, for example. Often times, Project Managers will have a choice of resources with various skill levels and experience. It is important to recognize when the expert may be needed on a critical portion of the project, and when a more junior resource will serve well doing more routine or known portions of the project work. In this way, the Project Manager can find a balance on the team that match the goals, objectives, and challenges of the project. It would be wonderful to have a team full of experts to help you deliver your project; however, experts usually cost more money. So, the Project Manager must also balance the skill and experience of the team with the budget available. Technical skills are not the only skills that a Project Manager should seek in their team members. The ability to work well with others, to collaborate, to communicate effectively, and to be a team player are all very necessary skills. You could have the most experienced and skilled person on your team to perform work, but if they can’t communicate or work well with the rest of the team, then conflicts and problems will arise. Once a project team is identified, the Project Manager’s job is not done. Throughout the life of the project, the Project Manager must skilfully guide the team to a successful delivery of the objectives. This is more than just a matter of assigning work. A team is a powerful concept when it works well together. However, if the team is in conflict or chaos, the entire project will suffer. It is the job of the Project Manager to provide a team environment that promotes communication, trust, and collaboration.
 
-# Project Selection and the Organization.
+# Project Selection and the Organization<a name="project-selection"></a>
 Projects can be initiated from many sources within an organization. Typically, an organization has more projects than they have resources to deliver them. So, they have a choice: to either try to get all the projects done with minimal resources and lengthen the time to achieve the benefits for every project, or they can narrow down the list of projects to those that will reap the greatest benefit to the clients, the business, and the employees. If the project list is narrowed, it allows an organization to properly staff for effective delivery. Project selection is the process used by companies to decide the best projects to implement. We will also be discussing the various types of organizations a project manager may operate within and the advantages and disadvantages that each structure brings. 
 
-## Project Selection Overview
+### Project Selection Overview
 
 In the workplace of today, managers increasingly use a project-approach to achieve business goals. Managers think strategically and employ the use of projects, teams, collaboration, empowered employees, and experimentation. Strategic management focuses on the major goals and objectives that will make a company successful. Sample strategies for an organization might include establishing a sales office in India within 2 years, releasing an innovative game console in the US prior to the holiday shopping season, or increasing gross margins by 10% in the next fiscal year.
 Strategic management is not "tactical." It does not focus on the day-to-day activities that are necessary to keep a company running. Rather, strategic management thinks at a high level and looks to the future and the big picture.
@@ -197,7 +200,8 @@ Why go through all of this? Undoubtedly, there are many projects a company would
 
 This means that there has to be a mechanism for evaluating the many projects that a company would like to launch, but can't afford to. We will start by defining the most common financial measures used to evaluate projects.
 
-### Financial Measures for Selecting Projects
+## Financial Measures for Selecting Projects<a name="financial-measure"></a>
+
 The most common financial measures used to evaluate projects are: **Payback Period, Net Present Value, and Profitability Index**. Each of these measures provide a view into the financial viability of a project based on different monetary approaches. The estimates used for these calculations are typically established and provided by the organization. For example, the finance department or a company's executives would know the cost of capital investments and can provide a project manager with the required rate of return that a project must be able to achieve in order for it to be considered profitable.
 
 Organizations use these financial measures to prioritize projects as most organizations have limited resources with which to work. Those projects with better financial indicators would typically be prioritized higher than those with less attractive financials. This prioritization helps an organization to narrow down the list of projects they will initiate and those that may have to seek better options for viability.
@@ -244,13 +248,13 @@ For a finalized Profitability Index, if we round to one decimal place. A ratio o
 As such The estimates used to conduct the financial viability must be done with great care so as to make them as accurate as possible. Wherever possible, experts' opinions, past project histories, and even computer simulations should be used to verify the estimates are as accurate as possible.
 
 
-### Non-Financial Criteria for Selecting Projects
+## Non-Financial Criteria for Selecting Projects<a name="none-financial-measure"></a>
 Although organizations will use financials to determine the viability of selecting a project, financial measures are not the only criteria that an organization should consider when investing money in a project. There are non-financial criteria that should be considered. Sometimes, non-financial criteria may drive an organization to select a project with less than desirable financial measures. Some examples are:
  -  To meet new government or legal regulations. For example, a new law that requires the business to implement a new process or modify/upgrade their existing equipment to not be in violation of the law.
 -   To gain competitive advantage. For example, to launch a new product ahead of a competitor, or to invest in research and development projects to maintain or increase market share.
 -   To invest in new technologies or processes. For example, to implement the latest technology in the organization to improve the efficiency and productivity of their workers, or to improve an existing process in the organization that would create cost savings in future years.
 
-# Project Selection Process
+# Project Selection Process<a name="project-selection-process"></a>
 Typically, organizations use a combination of both financial and non-financial criteria to determine the best projects to select. A typical project selection process would likely include the following steps:
 1.	Business plan identifies project opportunities aligned to the organization's strategy OR an employee has an idea for a project and reviews it with their management team for concurrence to proceed and get allocated funding.
 
