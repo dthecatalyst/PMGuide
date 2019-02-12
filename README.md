@@ -11,7 +11,13 @@
 **[Non-Financial Criteria for Selecting Projects](#none-financial-measure)**<br>
 **[Project Selection Process](#project-selection-process)**<br>
 **[Project Structures Within Organizations](#Structures-Within-Organizations)**<br>
-
+ - **[Functional AKA Hierarchical Organization](#Functional-Hierarchical-Organization)**<br>
+ - **[Pure Project Organization](#Pure-Project-Organization)**<br>
+ - **[Matrix Organization](#Matrix-Organization)**<br>
+ - **[What Structure Works Best?](#What-Structure-Works-Best)**<br>
+ - **[Comparing Organizational Structures](#Compare-Organizational-Structures)**<br>
+ 
+ **[Project Management Office](#Project-Management-Office)**<br>
 
 
 
