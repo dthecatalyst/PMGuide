@@ -77,7 +77,7 @@ Project Management consists of the methods and tools used to deliver a project t
 
 You've encountered projects in your personal life (remodeling a home), in your work (developing a new product for your company), or at school (getting a degree). When remodeling a home, you must watch and control the expenses; when developing a new product, you must monitor the number of features that are added to the product to meet cost expectations; and when getting a degree, you often have to manage your time commitments. Managing the expenses, managing the schedule, managing the amount of work, planning for problems, handling the risks, communicating critical information to all involved, leading a team - these are the activities of successful Project Management.
 
-## The Triple Constraint<a name="triple-constraint"></a>
+### The Triple Constraint<a name="triple-constraint"></a>
 
 Whether complex or simple, high-budget or low-budget, lengthy or brief in time, all projects have the same three general objectives: meeting the scope (including quality criteria of the deliverables), meeting time constraints, and meeting cost boundaries. These three objectives are called the "Triple Constraint." We will refer to the Triple Constraint many times. These three constraints work together in an interesting fashion. They must always be kept in balance with each other - which is one of the biggest challenges that a Project Manager has.
 
@@ -87,7 +87,7 @@ Whether complex or simple, high-budget or low-budget, lengthy or brief in time, 
    Let's say you want to build a house. You want it to be a 3 bedroom house, to be built in 3 months and for no more than $170,000. You first have to design the house with a blueprint, or a plan, for the house you want. Then you have to determine what it will cost to purchase all the materials to build the house to the design. Then you need to ensure you have the proper staff with the proper skills to build the house in 3 months’ time. If you draw your blueprints, and find out to build your dream house, you need $200,000 in materials and labor, then you need to either pick cheaper materials, cheaper or less labor, or change your plan to be less elaborate, maybe build a smaller house, or a reduced scope. If you find your house will take 4 months to build, then you have to have the money in your budget to pay for the extra month of resources, or again, you need to look possibly, at a smaller house which is a reduction in scope, in order to stay within your budget. The Triple Constraint works much like a three legged stool. All three legs must be in balance for the stool to stand up straight and allow for a flat surface to sit on. If one leg gets shortened, the stool starts to tip, same if one leg gets longer than the others. The Triple Constraint works similarly - if one leg gets shortened or lengthened, typically the other two must accommodate or adjust in order to keep the stool in balance which in our case is to achieve the desired objective of the project. Effective Project Managers understand the impact that a change in one constraint has on the other two and manages this continually throughout the project to achieve the desired scope and quality.
 ***
 
-## Managing the Triple Constraint<a name="triple-constraint"></a>
+### Managing the Triple Constraint<a name="triple-constraint"></a>
 
 Which constraint, of the Triple Constraint, is the most important for a Project Manager to manage? In theory, they are equally important, but on any particular project, one may be more important than another. A Project Manager must understand their customer and needs to know which of the Triple Constraints may be more important (i.e. meeting the schedule, meeting the budget, or delivering the scope). This becomes important when the Project Manager needs to find solutions to issues or risks encountered and needs to trade off a constraint to meet the project objectives.
 
@@ -115,7 +115,7 @@ These examples don't cover every possibility that you might find yourself in as 
 As we mentioned earlier, all projects have a start and an end. Another way to acknowledge this is to say that all projects follow a life cycle of phases: Initiation, Planning, Execution and Closure.
 Our goal will be to review and explain how the project is managed throughout these life cycle phases.The concept of a "life cycle" is prevalent in today's business and technology climates. This concept has been applied to the development of most new products, especially software products. Also implicit in a "life cycle," is the notion of phases or stages that are completed in a specific order through the "life" of the project. Each project may go through the same "life cycle" phases, even though each project outcome will be unique. Projects begin with Initiation by defining the goals and objectives to be achieved. In Planning, the details of the project are identified as well as how the project will be carried out in order to meet the objectives. In Execution, the Project Plan is monitored and controlled to ensure that the actual work being delivered meets the planned scope, cost, and schedule. And lastly, the project is Closed where all deliverables are turned over the customer, and all project activities are completed. Project Closing also includes a post project review, complete with a collection of lessons learned, best practices, and improvements that can be made to the Project Management methods and tools for improved performance on future projects in the organization. During each life cycle phase, there are specific deliverables expected to be produced. These deliverables are based upon the project objectives and the ultimate project result. For example, if the project is to build a house, at the end of the Planning Phase it would be expected to have design blueprints for the house as well as a contract with a builder to build the house. During Execution, it would be expected that there would be interim key deliverables such as, the completion of the foundation, the completion of the framing, the completion of the roof, the completion of the walls, the completion of electrical and plumbing, and so forth. These deliverables are produced over the “life” of the project and are key to meeting the overall project goal of a beautiful new home. We will explore the entire Project Life Cycle together, beginning with Initiation and finishing with Project Closing.
 
-## Project Life Cycle Phases<a name="life-cycle-phases"></a>
+### Project Life Cycle Phases<a name="life-cycle-phases"></a>
 The Project Manager and project team have one shared goal: to carry out the work of the project for the purpose of meeting the project's objectives. A standard project typically has the following major phases: Initiation, Planning, Execution (including monitoring and control), and Closure. Taken together, these phases represent the path a project takes from the beginning to its end and are generally referred to as the project "life cycle." The project life cycle described below is what is known as a Predictive Project Life Cycle.
 
 <p align="center"><img width="600" height="350" src="/resourcedict/Project_Life_Cycle_graphic.png"></p>
@@ -157,7 +157,7 @@ One of the most important jobs of the Project Manager is to manage the risks inh
 
 As you can see, the role of the Project Manager goes far beyond their ability to manage a project schedule. The best project schedule in the world still won't help a Project Manager that has poor communication skills. With these skills in mind, let's take a look at the role of the Project Manager in contrast to other managers within an organization.
 
-## Project Managers Compared to Functional Managers<a name="project-manager-compared-to-fuctional-manager"></a>
+### Project Managers Compared to Functional Managers<a name="project-manager-compared-to-fuctional-manager"></a>
 
 When we think of managers, usually we think of the functional manager or the department manager- the person who manages an organizational unit such as marketing, accounting & payroll, research, human resources,manufacturing, facilities, and so on. These units provide products or services to all areas of the organization, and usually specialize in producing one type of result, product, or service. Functional groups are also typically responsible for company operations within their specialization area. The manager of these functional units is usually a specialist in the function that the department represents.
 
@@ -220,7 +220,7 @@ Why go through all of this? Undoubtedly, there are many projects a company would
 
 This means that there has to be a mechanism for evaluating the many projects that a company would like to launch, but can't afford to. We will start by defining the most common financial measures used to evaluate projects.
 
-## Financial Measures for Selecting Projects<a name="financial-measure"></a>
+### Financial Measures for Selecting Projects<a name="financial-measure"></a>
 
 The most common financial measures used to evaluate projects are: **Payback Period, Net Present Value, and Profitability Index**. Each of these measures provide a view into the financial viability of a project based on different monetary approaches. The estimates used for these calculations are typically established and provided by the organization. For example, the finance department or a company's executives would know the cost of capital investments and can provide a project manager with the required rate of return that a project must be able to achieve in order for it to be considered profitable.
 
@@ -268,13 +268,13 @@ For a finalized Profitability Index, if we round to one decimal place. A ratio o
 As such The estimates used to conduct the financial viability must be done with great care so as to make them as accurate as possible. Wherever possible, experts' opinions, past project histories, and even computer simulations should be used to verify the estimates are as accurate as possible.
 
 
-## Non-Financial Criteria for Selecting Projects<a name="none-financial-measure"></a>
+### Non-Financial Criteria for Selecting Projects<a name="none-financial-measure"></a>
 Although organizations will use financials to determine the viability of selecting a project, financial measures are not the only criteria that an organization should consider when investing money in a project. There are non-financial criteria that should be considered. Sometimes, non-financial criteria may drive an organization to select a project with less than desirable financial measures. Some examples are:
  -  To meet new government or legal regulations. For example, a new law that requires the business to implement a new process or modify/upgrade their existing equipment to not be in violation of the law.
 -   To gain competitive advantage. For example, to launch a new product ahead of a competitor, or to invest in research and development projects to maintain or increase market share.
 -   To invest in new technologies or processes. For example, to implement the latest technology in the organization to improve the efficiency and productivity of their workers, or to improve an existing process in the organization that would create cost savings in future years.
 
-# Project Selection Process<a name="project-selection-process"></a>
+### Project Selection Process<a name="project-selection-process"></a>
 Typically, organizations use a combination of both financial and non-financial criteria to determine the best projects to select. A typical project selection process would likely include the following steps:
 1.	Business plan identifies project opportunities aligned to the organization's strategy OR an employee has an idea for a project and reviews it with their management team for concurrence to proceed and get allocated funding.
 
@@ -296,5 +296,5 @@ Usually, we find three different types of project structures within organization
 
 <p align="center"><img width="650" height="100" src="/resourcedict/orgstructure.png"></p>
 
-## Functional (Traditional, Hierarchical or Vertical) Organization<a name="Functional-Hierarchical-Organization"></a>
+### Functional (Traditional, Hierarchical or Vertical) Organization<a name="Functional-Hierarchical-Organization"></a>
 Most military organizations are organized using a traditional organization. In a structure such as shown below, the function or the hierarchical leader has primary control, responsibility, and authority over that function or department within that organization.
