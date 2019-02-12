@@ -16,8 +16,7 @@
  - **[Matrix Organization](#Matrix-Organization)**<br>
  - **[What Structure Works Best?](#What-Structure-Works-Best)**<br>
  - **[Comparing Organizational Structures](#Compare-Organizational-Structures)**<br>
- 
- **[Project Management Office](#Project-Management-Office)**<br>
+**[Project Management Office](#Project-Management-Office)**<br>
 
 
 
