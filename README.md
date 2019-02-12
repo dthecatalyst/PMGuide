@@ -1,22 +1,24 @@
 # Table of Contents
-**[What is a Project ?](#what-is-a-project)**<br>
-**[What is Project Management?](#What-is-Project-Management)**<br>
-**[The Triple Constraint](#triple-constraint)**<br>
-**[Managing Triple Constraint](#triple-constraint)**<br>
-**[What is the Project Life Cycle?](#What-is-the-Project-Life-Cycle)**<br>
-**[The Role and Characteristics of a Project Manager](#characteristics-of-project-manager)**<br>
-**[Project Managers Compared to Functional Managers](#project-manager-compared-to-fuctional-manager)**<br>
-**[Project Selection and the Organization](#project-selection)**<br>
-**[Financial Measures for Selecting Projects](#financial-measure)**<br>
-**[Non-Financial Criteria for Selecting Projects](#none-financial-measure)**<br>
-**[Project Selection Process](#project-selection-process)**<br>
-**[Project Structures Within Organizations](#Structures-Within-Organizations)**<br>
+1. **[What is a Project ?](#what-is-a-project)**<br>
+2. **[What is Project Management?](#What-is-Project-Management)**<br>
+3. **[The Triple Constraint](#triple-constraint)**<br>
+4. **[Managing Triple Constraint](#triple-constraint)**<br>
+5. **[What is the Project Life Cycle?](#What-is-the-Project-Life-Cycle)**<br>
+6. **[The Role and Characteristics of a Project Manager](#characteristics-of-project-manager)**<br>
+7. **[Project Managers Compared to Functional Managers](#project-manager-compared-to-fuctional-manager)**<br>
+8. **[Project Selection and the Organization](#project-selection)**<br>
+9. **[Financial Measures for Selecting Projects](#financial-measure)**<br>
+10. **[Non-Financial Criteria for Selecting Projects](#none-financial-measure)**<br>
+11. **[Project Selection Process](#project-selection-process)**<br>
+12. **[Project Structures Within Organizations](#Structures-Within-Organizations)**<br>
+ 
  - **[Functional AKA Hierarchical Organization](#Functional-Hierarchical-Organization)**<br>
  - **[Pure Project Organization](#Pure-Project-Organization)**<br>
  - **[Matrix Organization](#Matrix-Organization)**<br>
  - **[What Structure Works Best?](#What-Structure-Works-Best)**<br>
  - **[Comparing Organizational Structures](#Compare-Organizational-Structures)**<br>
-**[Project Management Office](#Project-Management-Office)**<br>
+
+13. **[Project Management Office](#Project-Management-Office)**<br>
 
 
 
