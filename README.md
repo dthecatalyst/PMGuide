@@ -5,7 +5,7 @@
 **[Managing Triple Constraint](#triple-constraint)**<br>
 **[What is the Project Life Cycle?](#What-is-the-Project-Life-Cycle)**<br>
 **[The Role and Characteristics of a Project Manager](#characteristics-of-project-manager)**<br>
-**[Project Managers Compared to Functional Managers](#project-manager-compared-to-fuctional-manager)**<br>
+**[Project Managers Compared to Functional Managers](##project-manager-compared-to-fuctional-manager)**<br>
 **[Project Selection and the Organization](#project-selection)**<br>
 **[Financial Measures for Selecting Projects](#financial-measure)**<br>
 **[Non-Financial Criteria for Selecting Projects](#none-financial-measure)**<br>
