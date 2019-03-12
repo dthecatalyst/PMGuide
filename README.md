@@ -16,7 +16,6 @@
   -  **[Pure Project Organization](#Pure-Project-Organization)**<br>
   -  **[Matrix Organization](#Matrix-Organization)**<br>
   -  **[What Structure Works Best?](#What-Structure-Works-Best)**<br>
-  -  **[Comparing Organizational Structures](#Compare-Organizational-Structures)**<br>
 
 13. **[Project Management Office](#Project-Management-Office)**<br>
 
