@@ -320,6 +320,6 @@ There are some disadvantages in this structure, however. Since the resources are
 ### Matrix Organization <a name ="Matrix-Organization"></a>
 The matrix organization tries to take advantages of some aspects from both the pure project and functional organizational structures. The matrix organization will have traditional, functional units,and projects will draw team members from across the functions.There are various levels of matrix organizations. A weak matrix organization takes on more characteristics of a functional organizational structure. A strong matrix organization will resemble more of a pure project organizational structure.In the matrix structure you see elements from both the functional structure and pure project structure.
 
-<p align="center"><img width="400" height="100" src="/resourcedict/Matrix.png"></p>
+<p align="center"><img width="400" height="150" src="/resourcedict/Matrixnew.png"></p>
 
 
