@@ -318,8 +318,13 @@ In this illustration, you see that all the resource boxes are shaded, meaning al
 There are some disadvantages in this structure, however. Since the resources are dedicated to this project, that means they can't be made available to other projects that might also need that skill set. So each project team would need to have their own tester or their own engineer as opposed to sharing resources across multiple projects. In addition, since projects are temporary, they have a start and an end. At the end of the project, all the resources on the project must find other project work to move to. This can be a very stressful time for the team and does consume a large amount of the project manager's time in helping their team find other positions within the organization.
 
 ### Matrix Organization <a name ="Matrix-Organization"></a>
-The matrix organization tries to take advantages of some aspects from both the pure project and functional organizational structures. The matrix organization will have traditional, functional units,and projects will draw team members from across the functions.There are various levels of matrix organizations. A weak matrix organization takes on more characteristics of a functional organizational structure. A strong matrix organization will resemble more of a pure project organizational structure.In the matrix structure you see elements from both the functional structure and pure project structure.
 
 <p align="center"><img width="600" height="150" src="/resourcedict/Matrixnew.png"></p>
+
+The matrix organization tries to take advantages of some aspects from both the pure project and functional organizational structures. The matrix organization will have traditional, functional units,and projects will draw team members from across the functions.There are various levels of matrix organizations. A weak matrix organization takes on more characteristics of a functional organizational structure. A strong matrix organization will resemble more of a pure project organizational structure.In the matrix structure you see elements from both the functional structure and pure project structure.
+
+<p align="center"><img width="600" height="150" src="/resourcedict/StrongMatrix.png"></p>
+
+There is typically a full-time project manager that reports to either a program manager or,perhaps, a higher-level functional manager.They have some full-time resources, shown here as fully-shaded resource boxes, such as the project manager, product engineer, and software engineer.
 
 
