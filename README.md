@@ -317,6 +317,6 @@ In this illustration, you see that all the resource boxes are shaded, meaning al
 
 There are some disadvantages in this structure, however. Since the resources are dedicated to this project, that means they can't be made available to other projects that might also need that skill set. So each project team would need to have their own tester or their own engineer as opposed to sharing resources across multiple projects. In addition, since projects are temporary, they have a start and an end. At the end of the project, all the resources on the project must find other project work to move to. This can be a very stressful time for the team and does consume a large amount of the project manager's time in helping their team find other positions within the organization.
 
-### Pure Project Organization <a name ="Matrix-Organization"></a>
+### Matrix Organization <a name ="Matrix-Organization"></a>
 
 
