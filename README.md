@@ -339,11 +339,11 @@ If the project manager is given more control over such things as the budget and 
 
 You will notice that none of the structures we have looked at are perfect - they each have advantages and disadvantages. The key is to match the right structure to the needs, goals, and objectives of the project. The organization should consider such elements such as:
 
-    The length of the project: unless the project is contained to a single functional unit, long term projects are best served with a strong matrix or pure project structure.
-    How many functional areas need to be engaged: the more functional areas that need to be engaged, the more advantageous the matrix or pure project structure will be.
-    The dedicated (full time) project resources needed (including if a dedicated Project Manager is needed): dedicated (full time) project resources are best served in a strong matrix or pure project structure.
-    The complexity of the project: the more complex a project, the more flexibility is needed in the structure, so a matrix or pure project structure would be best.
-    The technical or functional depth of the project: for technically deep and functionally specific projects, the functional or weak matrix would be best.
+  -The length of the project: unless the project is contained to a single functional unit, long term projects are best served with a strong matrix or pure project structure.
+  -How many functional areas need to be engaged: the more functional areas that need to be engaged, the more advantageous the matrix or pure project structure will be.
+  -The dedicated (full time) project resources needed (including if a dedicated Project Manager is needed): dedicated (full time) project resources are best served in a strong matrix or pure project structure.
+  -The complexity of the project: the more complex a project, the more flexibility is needed in the structure, so a matrix or pure project structure would be best.
+  -The technical or functional depth of the project: for technically deep and functionally specific projects, the functional or weak matrix would be best.
 
 In larger organizations, it is very common to see elements of all 3 organizational structures for projects. The structures are adjusted for each project to meet the needs of that project. When a Project Manager initiates a project, one element they should determine quickly is the type of structure they believe will best fit the needs of the project. In this way, they can work with management and the Project Sponsor to ensure the correct structure is utilized so as not to create an undue burden on the Project Manager to deliver the project.
 
