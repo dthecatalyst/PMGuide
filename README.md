@@ -345,6 +345,26 @@ You will notice that none of the structures we have looked at are perfect - they
   -  The technical or functional depth of the project: for technically deep and functionally specific projects, the functional or weak matrix would be best.
 
 In larger organizations, it is very common to see elements of all 3 organizational structures for projects. The structures are adjusted for each project to meet the needs of that project. When a Project Manager initiates a project, one element they should determine quickly is the type of structure they believe will best fit the needs of the project. In this way, they can work with management and the Project Sponsor to ensure the correct structure is utilized so as not to create an undue burden on the Project Manager to deliver the project.
+# Project Management Office<a name = "Project-Management-Office"></a>
+
+Many companies use a specialized organizational structure to support Project Managers and projects within the company. This structure is called a Project Management Office (PMO) or Project Office (PO). The PMO structure has been implemented in many companies in an effort to improve the overall success rate of projects. Their primary purpose is to provide support to the projects and Project Managers within an organization.
+
+A PMO can provide a wide variety of support options to projects including:
+
+-   Own and provide support for the organization's Project Management methods and processes.
+-   Provide Project Management expertise and coaching.
+-   Provide Project Management education for the organization.
+-   Provide project auditing.
+-   Support the organization's project tools and techniques.
+-   Serve as a repository for best practices.
+-   Provide standards for reporting and measuring project progress.
+-   Facilitate project reviews with Senior Management.
+-   Assist with resource allocations across projects.
+-   Assist with project selection and support the Project Portfolio management process.
+
+When organizations establish a PMO they often times are striving to standardize the Project Management practice, methodology, and tools across the entire company. PMOs have become quite popular as projects have become more and more complex to deliver in our global economy. However, the success rate of PMOs is quite varied.
+
+The ultimate goal of a PMO is to provide value to the organization, the projects, and the Project Managers. And although Project Management has accepted methods based on the standards from such organizations as the Project Management Institute, there are no industry standard structures, functions, or goals of a PMO. Organizations that utilize PMOs design them specifically for the functions and projects within that organization. As you might expect, because of this variation, some PMOs are much more effective than others. The closer the alignment of PMO objectives to the strategy and goals of the organization, the more likely the PMO can be successful.
 
 
 
