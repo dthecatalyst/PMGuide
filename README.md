@@ -366,5 +366,10 @@ When organizations establish a PMO they often times are striving to standardize 
 
 The ultimate goal of a PMO is to provide value to the organization, the projects, and the Project Managers. And although Project Management has accepted methods based on the standards from such organizations as the Project Management Institute, there are no industry standard structures, functions, or goals of a PMO. Organizations that utilize PMOs design them specifically for the functions and projects within that organization. As you might expect, because of this variation, some PMOs are much more effective than others. The closer the alignment of PMO objectives to the strategy and goals of the organization, the more likely the PMO can be successful.
 
+So far we have reviewed the project selection process and the various organization structures that projects can operate in.Once an organization selects their portfolio of projects, they must initiate the projects.
+---
+Now we will explore how to initiate a project in detail. The first phase in the project lifecycle is initiation. In this phase, the project manager learns the objectives of the project, the business reasons for which it was selected, information about project deliverables, timeline, and budget,and gains approval to proceed with the project. ***We will also explore a key initiation deliverable called the Project Charter***.The initiation phase is an important phase to the project because it lays the foundation for the reasons the project is undertaken and the primary business benefits and goals the project is expected to achieve. The initiation phase solidifies these elements and ensures all stakeholders are in agreement about the reasons and  objectives for the project. It also serves as an acknowledgement by management of the resources required to deliver the project, including the budget, the schedule, and the scope. 
+---
+
 
 
