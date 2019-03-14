@@ -92,21 +92,21 @@ Which constraint, of the Triple Constraint, is the most important for a Project 
 
 Let's look at some examples. The image below represents the Triple Constraint.
 
-<p align="center"><img src="resourcedict/Triple_Constraint1.png" width="300" height="300" ></p>
+<p align="center"><img src="./resourcedict/Triple_Constraint1.png" width="300" height="300" ></p>
 
 Now let's look at what happens to the project if we have to change one of the constraints.
 
 If your cost is decreased, and you must deliver in the same amount of time, then the impact would be to decrease the scope:
 
-<p align="center"><img width="300" height="300" src="/resourcedict/Cost_Decreased_Triple_Constraint2.png"></p>
+<p align="center"><img width="300" height="300" src="./resourcedict/Cost_Decreased_Triple_Constraint2.png"></p>
 
 If your schedule is decreased, and you must provide the same deliverables, the impact would be to increase the cost:
 
-<p align="center"><img width="300" height="300" src="/resourcedict/Schedule_Decreased_Triple_Constraint3.png"></p>
+<p align="center"><img width="300" height="300" src="./resourcedict/Schedule_Decreased_Triple_Constraint3.png"></p>
 
 If your scope is increased, then the impact would be to either increase the cost or increase the time (or both):
 
-<p align="center"><img width="300" height="300" src="/resourcedict/Scope_Increase_Triple_Constraint 4.png"></p>
+<p align="center"><img width="300" height="300" src="./resourcedict/Scope_Increase_Triple_Constraint 4.png"></p>
 
 These examples don't cover every possibility that you might find yourself in as a Project Manager, however, they indicate the importance of recognizing that if one element of the Triple Constraint is impacted, then the two other elements of the Triple Constraint are likely also impacted. The Project Manager must be able to effectively identify these tradeoffs to ensure the best possible decision is made for the business, the customer, and the project.
 
@@ -117,7 +117,7 @@ Our goal will be to review and explain how the project is managed throughout the
 ### Project Life Cycle Phases<a name="life-cycle-phases"></a>
 The Project Manager and project team have one shared goal: to carry out the work of the project for the purpose of meeting the project's objectives. A standard project typically has the following major phases: Initiation, Planning, Execution (including monitoring and control), and Closure. Taken together, these phases represent the path a project takes from the beginning to its end and are generally referred to as the project "life cycle." The project life cycle described below is what is known as a Predictive Project Life Cycle.
 
-<p align="center"><img width="600" height="350" src="/resourcedict/Project_Life_Cycle_graphic.png"></p>
+<p align="center"><img width="600" height="350" src="./resourcedict/Project_Life_Cycle_graphic.png"></p>
 
 <p align= "center"><b>Typical Cost and Staffing Levels Across a Generic Project Life Cycle Structure</b></p>
 
@@ -228,7 +228,7 @@ Organizations use these financial measures to prioritize projects as most organi
 ### Accuracy in financial measure
 It is important to note that the financial measures we have discussed (Payback Period, Net Present Value, and Profitability Index). For example, if the cash flow estimates are not accurate, such as the initial investment is underestimated or the cash inflows are overestimated, this can have a serious impact on the accuracy of the financial measures such as Payback Period, Profitability, and NPV because if you look at the calculation, The Payback Period calculates how long it will take to return the initial investment of the project. **The formula for Payback Period is the initial investment divided by the periodic cash flow**.
 
-<p align="center"><img width="400" height="150" src="/resourcedict/PaybackPeriod.png"></p>
+<p align="center"><img width="400" height="150" src="./resourcedict/PaybackPeriod.png"></p>
 
 **Dividing by annual cash flow gives you the payback time in years.** The shorter the Payback Period, the quicker an organization can achieve financial benefits. 
 
@@ -238,28 +238,28 @@ Net Present Value and Profitability Index both consider that the value of money 
 
 Net Present Value, or NPV, determines the difference of the initial investment and the value of the cash inflows over time, considering a rate of return and the time value of money. The formula for NPV is shown here,
 
-<p align="center"><img width="400" height="250" src="/resourcedict/npv.png"></p>
+<p align="center"><img width="400" height="250" src="./resourcedict/npv.png"></p>
 
 where the initial cash investment represented as a negative plus the sum from time period i to T of the cash inflows divided by the quantity 1 plus the required rate of return raised to the ith power. Let's look at an example.
 
 Our project has an initial investment of $100,000. The annual cash inflow is $35,000 a year for five years. The required rate of return is 15%. The Net Present Value, or NPV, formula would be as follows.
 
-<p align="center"><img width="500" height="90" src="/resourcedict/calculation.png"></p>
+<p align="center"><img width="500" height="90" src="./resourcedict/calculation.png"></p>
 
 For the next step, we will round to the nearest whole number. This gives us 
 
-<p align="center"><img width="500" height="90" src="/resourcedict/calculation2.png"></p>
+<p align="center"><img width="500" height="90" src="./resourcedict/calculation2.png"></p>
 
 
 **An NPV value of zero indicates that the project will return enough money to meet the organization's required rate of return. Any value above zero will indicate that the organization can achieve an even higher rate of return than what is required.** An NPV that is negative indicates that the organization will never get a return on the money invested and should consider not pursuing that project. In our example, the NPV is above zero, so there will be a higher rate of return than what was required.
 
 **Profitability Index** is similar to NPV in that it also considers the time value of money in its calculation. Profitability Index is expressed in the form of a ratio. That is, the ratio of the present value of cash inflows to the initial investment.
 
-<p align="center"><img width="500" height="150" src="/resourcedict/PI.jpg"></p>
+<p align="center"><img width="500" height="150" src="./resourcedict/PI.jpg"></p>
 
 The formula for Profitability Index is the present value of future cash flows divided by the initial investment required. The present value of future cash flows is the same as part of the formula used for the net present value.
 
-<p align="center"><img width="500" height="150" src="/resourcedict/PIPVF.png.jpg"></p>
+<p align="center"><img width="500" height="150" src="./resourcedict/PIPVF.png.jpg"></p>
 
 For a finalized Profitability Index, if we round to one decimal place. A ratio of greater than one is a sign that the project will return financial benefits to the organization. If the ratio is less than one, this means the NPV is also less than zero, which means the organization should consider not pursuing that project.
 
@@ -293,23 +293,23 @@ Projects operate within organizations and as such, not all project structures ar
 
 Usually, we find three different types of project structures within organizations in which Projects and Project Managers must operate. They are Functional, Matrix, and Pure Project. Functional organizations are also called Traditional, Hierarchical, or Vertical organizations.
 
-<p align="center"><img width="650" height="100" src="/resourcedict/orgstructure.png"></p>
+<p align="center"><img width="650" height="100" src="./resourcedict/orgstructure.png"></p>
 
 ### Functional (Traditional, Hierarchical or Vertical) Organization<a name="Functional-Hierarchical-Organization"></a>
 Most military organizations are organized using a traditional organization. In a structure such as shown below, the function or 
-<p align="center"><img width="650" height="300" src="/resourcedict/Projectorg.png"></p>
+<p align="center"><img width="650" height="300" src="./resourcedict/Projectorg.png"></p>
 the hierarchical leader has primary control, responsibility, and authority over that function or department within that organization and there is a clear vertical chain of command. Functional units are primarily responsible for maintaining the business operations related to that function. A project manager that operates a project that stays within the boundaries of the function will typically report to a functional leader and get resources from within that same functional team. An example of this would be an accounting project that only involves the resources and scope from the accounting department. Most projects, however, work across functional groups. For example, a project for new product development; it would involve sales, marketing, engineering, manufacturing, finance, etc. In this case, the project manager must work across the functional hierarchy to obtain the resources and support.
 
 The project manager in the functional structure is typically the functional manager that has the majority of the resources to deliver the project, or there is a project analyst or coordinator assigned to work across the functions. There are typically part-time resources in such a structure that share their time between operations work and project work.
 
-<p align="center"><img width="650" height="300" src="/resourcedict/fuctional_project.png"></p>
+<p align="center"><img width="650" height="300" src="./resourcedict/fuctional_project.png"></p>
 
 In the illustration shown, the shaded area represents the percentage of the resource working on a project. The project analyst is 100% allocated to the project, but the software engineer and quality assurance tester are only allocated 50% to the project. And the product engineer and quality assurance auditor are only allocated 25% to the project. Each person reports to their functional manager. The benefits of this structure is that it is fairly simple and provides easy access to the resources needed to perform the work on the project. The disadvantages of working in the structure for delivery of a project is that the more functions involved, the more difficult it is to coordinate across the functions, as well as finding the right priority of work so that the project work gets the attention needed and resources are not distracted with operational work. These structures are good when projects are mostly contained within one functional area. One of the important things to remember is that if you are a project analyst or coordinator in a functional organization structure, you will have little to no authority in making project decisions or managing the project budget and resources. The resources, budget, and authority are controlled by the functional managers. As a project analyst or coordinator in the functional organization structure, you will have to use many different types of soft skills and networking to get the resources you may require for your project to be successful. And you will always be competing against operational priorities supported by the same resources.
 
 ### Pure Project Organization <a name ="Pure-Project-Organization"></a>
 The pure project, or projectized organization, is a structure where every activity is treated as a project and every activity is conducted by a project team. Pure project organizations are a complete opposite from the traditional hierarchical functional structure. If you are a project manager in a pure project organizational structure, you have full authority. In pure project organizations, the project manager will control the resources and budget. Project work is organized by project instead of by functional unit. 
 
-<p align="center"><img width="650" height="300" src="/resourcedict/PureProject.png"></p>
+<p align="center"><img width="650" height="300" src="./resourcedict/PureProject.png"></p>
 
 
 In this illustration, you see that all the resource boxes are shaded, meaning all the resources on the project are full-time. They are dedicated to the project, and they report directly to the project manager instead of a functional manager. Their boss is the project manager and all they work on are the project deliverables. This structure is particularly suitable for long-term multiyear projects that require dedicated effort to deliver a complex product or service that needs focused effort to complete.  In this structure, the project manager has full authority. It is a simple structure and there is significant team comradery created, as the whole team is dedicated and focused on achieving the project goals and objectives. 
@@ -319,14 +319,14 @@ There are some disadvantages in this structure, however. Since the resources are
 ### Matrix Organization <a name ="Matrix-Organization"></a>
 
 
-<p align="center"><img width="600" height="150" src="/resourcedict/Matrixnew.png"></p>
+<p align="center"><img width="600" height="150" src="./resourcedict/Matrixnew.png"></p>
 <p align= "center"><b>A Typical Matrix Organization Structure</b></p>
 
 
 The matrix organization tries to take advantages of some aspects from both the pure project and functional organizational structures. The matrix organization will have traditional, functional units,and projects will draw team members from across the functions.There are various levels of matrix organizations. A weak matrix organization takes on more characteristics of a functional organizational structure. A strong matrix organization will resemble more of a pure project organizational structure.In the matrix structure you see elements from both the functional structure and pure project structure.
 
 
-<p align="center"><img width="600" height="150" src="/resourcedict/StrongMatrix.png"></p>
+<p align="center"><img width="600" height="150" src="./resourcedict/StrongMatrix.png"></p>
 
 There is typically a full-time project manager that reports to either a program manager or,perhaps, a higher-level functional manager.They have some full-time resources, shown above as fully-shaded resource boxes, such as the project manager, product engineer, and software engineer.
 They also have some part-time resources that work for them on the project, such as the quality assurance auditor, and quality assurance tester. Notice, however, the solid line reporting structure for the functional resources, such as the engineers, still report to their boss, the engineering manager. They also report along the line to the project manager, meaning, they have functional responsibility to their boss, the engineering manager, and they also report to the project manager for project-related activities.So, a key characteristic of a matrix structure is that resources have two bosses: their functional manager and their project manager. 
