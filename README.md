@@ -92,7 +92,7 @@ Which constraint, of the Triple Constraint, is the most important for a Project 
 
 Let's look at some examples. The image below represents the Triple Constraint.
 
-<div align="center"><img src="/resourcedict/Triple_Constraint1.png" width="300" height="300" ></div>
+<p align="center"><img src="resourcedict/Triple_Constraint1.png" width="300" height="300" ></p>
 
 Now let's look at what happens to the project if we have to change one of the constraints.
 
